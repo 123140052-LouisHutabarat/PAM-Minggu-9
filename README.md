@@ -315,10 +315,9 @@ conversationHistory.add(assistantContent)
 
 | Chat AI | Nutrisi |
 |---|---|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| https://github.com/user-attachments/assets/271842cb-28f7-4109-bf41-46aca6e13673 |https://github.com/user-attachments/assets/a44912af-5c85-4361-bd67-81da5cea902b  |
+| https://github.com/user-attachments/assets/988ec667-1a14-4dd6-8ee5-fa38c1c64ccc |https://github.com/user-attachments/assets/ab269a6f-3f2b-4c0a-be17-1772580a032e  |
+
 
 ---
 
